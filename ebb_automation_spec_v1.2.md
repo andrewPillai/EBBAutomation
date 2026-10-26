@@ -5,7 +5,6 @@
 | **Status** | FROZEN FOR BUILD — changes only via ADR amendment + contract tests in the same PR |
 | **Date** | October 2026 |
 | **Supersedes** | `ebb_automation_spec_v1.1.md`; `swarm_briefing_pack.md` (all parts) |
-| **Build consumer** | Kimi Code agent swarm |
 | **Source material** | swarm_briefing_pack.md (Parts 1–6); research briefs a1 (EBB landscape), a2 (NAESB standards), a3 (technology), a4 (legal/commercial); b1 (adversarial pressure test) |
 | **Conflict rule** | Where sources conflict, **b1 wins**; where b1 is silent, the pack wins; no figures are invented — every externally-sourced claim carries its source URL in §14 |
 
